@@ -1,0 +1,21 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: center;
+    background-color: #b3babe;
+}
+
+.bt{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    width: 100px;
+    height: 40px;
+    border-radius: 25px;
+    background-color: rgb(3, 99, 3);
+    border: none;
+    color: #ffffff;
+
+}
